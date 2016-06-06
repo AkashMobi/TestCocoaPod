@@ -1,3 +1,5 @@
+![SDK screenshots](Images/banner.png)
+
 MobiKwik iOS SDK is a ready to use native solution for iOS applications (iOS 7 and above) to start accepting payments. This SDK provides both, fully functional user interface and API based methods for merchants who want to use their own interface.
 
 
