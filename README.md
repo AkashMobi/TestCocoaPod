@@ -2,6 +2,7 @@ MobiKwik iOS SDK is a ready to use native solution for iOS applications (iOS 7 a
 
 
 ## Payment Options
+
 Based on requirements, merchants can choose from the following list of payment methods that are supported by SDK:
 - MobiKwik Wallet Payments
 - Card Payments
