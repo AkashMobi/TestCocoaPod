@@ -125,4 +125,4 @@ Akashdeep, akashdeep@mobikwik.com
 
 ## License
 
-TestCocoaPod is available under the MIT license. See the LICENSE file for more info.
+MobiKwik iOS SDK is a licensed product of One Mobikwik Systems Pvt Ltd, India. See the [LICENSE](/LICENSE) file for more info.
